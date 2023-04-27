@@ -1,0 +1,1 @@
+This Dir contains function called filter_datum that returns the log message obfuscated and function that Implement a hash_password function that expects one string argument name password and returns a salted, hashed password, which is a byte string.
